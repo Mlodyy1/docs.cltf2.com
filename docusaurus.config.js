@@ -110,7 +110,7 @@ const config = {
             items: [
               {
                 label: 'Our Website',
-                to: 'https://cltf2.com',
+                href: 'https://cltf2.com',
               },
             ],
           },
