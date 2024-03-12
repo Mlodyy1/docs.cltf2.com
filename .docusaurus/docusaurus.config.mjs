@@ -79,10 +79,6 @@ export default {
             {
               "label": "Discord",
               "href": "https://discord.gg/nFD4tRjwJA"
-            },
-            {
-              "label": "Twitter",
-              "href": "https://twitter.com/docusaurus"
             }
           ]
         },
