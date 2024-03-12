@@ -1,0 +1,15 @@
+{
+  "title": "Tutorial - Extras",
+  "slug": "/category/tutorial---extras",
+  "permalink": "/docs/category/tutorial---extras",
+  "navigation": {
+    "previous": {
+      "title": "CLTF2 4v4 Ruleset",
+      "permalink": "/docs/4S Rules/4s-ruleset"
+    },
+    "next": {
+      "title": "Manage Docs Versions",
+      "permalink": "/docs/tutorial-extras/manage-docs-versions"
+    }
+  }
+}

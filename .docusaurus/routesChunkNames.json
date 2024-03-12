@@ -1,0 +1,80 @@
+{
+  "/__docusaurus/debug-5f0": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-48-b-c91"
+    }
+  },
+  "/__docusaurus/debug/config-759": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-48-b-c91"
+    }
+  },
+  "/__docusaurus/debug/content-8e9": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-48-b-c91"
+    },
+    "allContent": "allContent---docusaurus-debug-content-246-9aa"
+  },
+  "/__docusaurus/debug/globalData-61a": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-48-b-c91"
+    }
+  },
+  "/__docusaurus/debug/metadata-9fe": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-48-b-c91"
+    }
+  },
+  "/__docusaurus/debug/registry-57a": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-48-b-c91"
+    }
+  },
+  "/__docusaurus/debug/routes-926": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-48-b-c91"
+    }
+  },
+  "/markdown-page-c2c": {
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__context": {
+      "plugin": "plugin---markdown-page-8-e-6-eff"
+    },
+    "content": "content---markdown-page-393-028"
+  },
+  "/docs-8ef": {
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__context": {
+      "plugin": "plugin---docs-7-da-f35"
+    }
+  },
+  "/docs-851": {
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "version": "version---docs-935-398"
+  },
+  "/docs-409": {
+    "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/docs/4S Rules/4s-ruleset-e88": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-4-s-rules-4-s-rulesetc-2-d-b84"
+  },
+  "/docs/General/league-rules-7b5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-general-league-rulesb-98-d24"
+  },
+  "/-b1a": {
+    "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
+    "__context": {
+      "plugin": "plugin---markdown-page-8-e-6-eff"
+    },
+    "config": "config---5-e-9-4f3"
+  }
+}

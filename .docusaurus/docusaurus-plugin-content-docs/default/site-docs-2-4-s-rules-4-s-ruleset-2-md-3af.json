@@ -1,0 +1,23 @@
+{
+  "id": "4S Rules/4s-ruleset2",
+  "title": "Fours Ruleset",
+  "description": "1 - Fours Ruleset",
+  "source": "@site/docs/2. 4S Rules/4s-ruleset2.md",
+  "sourceDirName": "2. 4S Rules",
+  "slug": "/4S Rules/4s-ruleset2",
+  "permalink": "/docs/4S Rules/4s-ruleset2",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/2. 4S Rules/4s-ruleset2.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "General Rules",
+    "permalink": "/docs/General Rules/league-rules"
+  }
+}

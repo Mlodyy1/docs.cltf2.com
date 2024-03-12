@@ -1,0 +1,38 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "General/league-rules",
+          "docs": [
+            {
+              "id": "4S Rules/4s-ruleset",
+              "path": "/docs/4S Rules/4s-ruleset",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "General/league-rules",
+              "path": "/docs/General/league-rules",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/General/league-rules",
+                "label": "General/league-rules"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}
