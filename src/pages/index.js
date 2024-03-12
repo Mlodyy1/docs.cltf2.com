@@ -14,7 +14,7 @@ function HomepageHeader() {
         <Heading as="h1" className="hero__title">
           {siteConfig.title}
         </Heading>
-        <img src="img/cltf2transparent.png" width="400" height="400"></img>
+        <img src="img/cltf2transparent.png" width="200" height="200"></img>
         <p className="hero__subtitle">{siteConfig.tagline}</p>
         <div className={styles.buttons}>
           <Link
