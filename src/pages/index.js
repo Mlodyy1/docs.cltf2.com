@@ -33,7 +33,7 @@ export default function Home() {
   return (
     <Layout
       title={`${siteConfig.title} - CLTF2`}
-      description="CLTF2 - CustomLander Team Fortress 2 League">
+      description="">
       <HomepageHeader />
       <main>
       </main>
