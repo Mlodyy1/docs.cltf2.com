@@ -1,0 +1,20 @@
+{
+  "id": "Guides/newbie-guide",
+  "title": "Newbie Guide",
+  "description": "Welcome to Competitive TF2: A Beginner's Guide",
+  "source": "@site/docs/3. Guides/newbie-guide.md",
+  "sourceDirName": "3. Guides",
+  "slug": "/Guides/newbie-guide",
+  "permalink": "/docs/Guides/newbie-guide",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/3. Guides/newbie-guide.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Fours Ruleset",
+    "permalink": "/docs/4S Rules/4s-ruleset"
+  }
+}

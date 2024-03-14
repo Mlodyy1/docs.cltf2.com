@@ -19,5 +19,9 @@
   "previous": {
     "title": "General Rules",
     "permalink": "/docs/General/league-rules"
+  },
+  "next": {
+    "title": "Newbie Guide",
+    "permalink": "/docs/Guides/newbie-guide"
   }
 }

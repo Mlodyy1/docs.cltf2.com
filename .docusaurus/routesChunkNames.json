@@ -49,17 +49,17 @@
     },
     "content": "content---markdown-page-393-028"
   },
-  "/docs-8ef": {
+  "/docs-610": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docs-7-da-f35"
     }
   },
-  "/docs-851": {
+  "/docs-fad": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "version": "version---docs-935-398"
   },
-  "/docs-409": {
+  "/docs-215": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/docs/4S Rules/4s-ruleset-e88": {
@@ -69,6 +69,10 @@
   "/docs/General/league-rules-7b5": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-general-league-rulesb-98-d24"
+  },
+  "/docs/Guides/newbie-guide-349": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-guides-newbie-guidee-14-16c"
   },
   "/-b1a": {
     "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",

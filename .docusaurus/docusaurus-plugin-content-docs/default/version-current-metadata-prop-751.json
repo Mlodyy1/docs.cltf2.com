@@ -38,6 +38,21 @@
             "unlisted": false
           }
         ]
+      },
+      {
+        "type": "category",
+        "label": "Guides",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Newbie Guide",
+            "href": "/docs/Guides/newbie-guide",
+            "docId": "Guides/newbie-guide",
+            "unlisted": false
+          }
+        ]
       }
     ]
   },
@@ -52,6 +67,12 @@
       "id": "General/league-rules",
       "title": "General Rules",
       "description": "1 - League Rules",
+      "sidebar": "tutorialSidebar"
+    },
+    "Guides/newbie-guide": {
+      "id": "Guides/newbie-guide",
+      "title": "Newbie Guide",
+      "description": "Welcome to Competitive TF2: A Beginner's Guide",
       "sidebar": "tutorialSidebar"
     }
   }

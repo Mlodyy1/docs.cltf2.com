@@ -19,6 +19,11 @@
               "id": "General/league-rules",
               "path": "/docs/General/league-rules",
               "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Guides/newbie-guide",
+              "path": "/docs/Guides/newbie-guide",
+              "sidebar": "tutorialSidebar"
             }
           ],
           "draftIds": [],

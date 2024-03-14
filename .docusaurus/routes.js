@@ -44,15 +44,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '8ef'),
+    component: ComponentCreator('/docs', '610'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '851'),
+        component: ComponentCreator('/docs', 'fad'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '409'),
+            component: ComponentCreator('/docs', '215'),
             routes: [
               {
                 path: '/docs/4S Rules/4s-ruleset',
@@ -63,6 +63,12 @@ export default [
               {
                 path: '/docs/General/league-rules',
                 component: ComponentCreator('/docs/General/league-rules', '7b5'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/Guides/newbie-guide',
+                component: ComponentCreator('/docs/Guides/newbie-guide', '349'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }
