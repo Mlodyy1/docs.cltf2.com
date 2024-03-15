@@ -94,6 +94,10 @@ const config = {
                 label: '4S Rules',
                 to: '/docs/4S Rules/4s-ruleset',
               },
+              {
+                label: 'Newbie Guide',
+                to: '/docs/Guides/newbie-guide',
+              },
             ],
           },
           {
