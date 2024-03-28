@@ -24,6 +24,11 @@
               "id": "Guides/newbie-guide",
               "path": "/docs/Guides/newbie-guide",
               "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Season 4 Provisional Tiers/season-4-provisional-tiers",
+              "path": "/docs/Season 4 Provisional Tiers/season-4-provisional-tiers",
+              "sidebar": "tutorialSidebar"
             }
           ],
           "draftIds": [],

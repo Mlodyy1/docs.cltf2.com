@@ -44,15 +44,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '610'),
+    component: ComponentCreator('/docs', '2e4'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', 'fad'),
+        component: ComponentCreator('/docs', '5df'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '215'),
+            component: ComponentCreator('/docs', '660'),
             routes: [
               {
                 path: '/docs/4S Rules/4s-ruleset',
@@ -68,7 +68,13 @@ export default [
               },
               {
                 path: '/docs/Guides/newbie-guide',
-                component: ComponentCreator('/docs/Guides/newbie-guide', '349'),
+                component: ComponentCreator('/docs/Guides/newbie-guide', '2eb'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/Season 4 Provisional Tiers/season-4-provisional-tiers',
+                component: ComponentCreator('/docs/Season 4 Provisional Tiers/season-4-provisional-tiers', '456'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }

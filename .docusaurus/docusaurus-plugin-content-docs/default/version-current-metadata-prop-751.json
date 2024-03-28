@@ -41,6 +41,21 @@
       },
       {
         "type": "category",
+        "label": "Season 4 Provisional Tiers",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Season 4 Provisional Tiers",
+            "href": "/docs/Season 4 Provisional Tiers/season-4-provisional-tiers",
+            "docId": "Season 4 Provisional Tiers/season-4-provisional-tiers",
+            "unlisted": false
+          }
+        ]
+      },
+      {
+        "type": "category",
         "label": "Guides",
         "collapsible": true,
         "collapsed": true,
@@ -73,6 +88,12 @@
       "id": "Guides/newbie-guide",
       "title": "Newbie Guide",
       "description": "Welcome to Competitive TF2: A Beginner's Guide",
+      "sidebar": "tutorialSidebar"
+    },
+    "Season 4 Provisional Tiers/season-4-provisional-tiers": {
+      "id": "Season 4 Provisional Tiers/season-4-provisional-tiers",
+      "title": "Season 4 Provisional Tiers",
+      "description": "Asia",
       "sidebar": "tutorialSidebar"
     }
   }
