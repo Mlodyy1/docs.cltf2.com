@@ -53,7 +53,7 @@
 
 ### Europe
 
-#### Premiership `8 teams`
+### Premiership `8 teams`
 - [THE GEEZERS](https://www.cltf2.com/teams/215)
 - [on the dole again](https://www.cltf2.com/teams/64)
 - [moro moro](https://www.cltf2.com/teams/28)
@@ -63,7 +63,7 @@
 - [Choking Hazard](https://www.cltf2.com/teams/204)
 - [Wicked Lotus](https://www.cltf2.com/teams/82)
 
-#### Division 1 `7 teams`
+### Division 1 `7 teams`
 - [Permiership](https://www.cltf2.com/teams/155)
 - [MBAPPE LA FSCB](https://www.cltf2.com/teams/78)
 - [4sEnvyus](https://www.cltf2.com/teams/12)
@@ -72,7 +72,7 @@
 - [wG downsyndrome](https://www.cltf2.com/teams/116)
 - [$vin_kolba$](https://www.cltf2.com/teams/9)
 
-#### Division 2A `7 teams`
+### Division 2A `7 teams`
 - [ESEA Invite](https://www.cltf2.com/teams/213)
 - [LOZA MASONSKA](https://www.cltf2.com/teams/74)
 - [JbuT4$$](https://www.cltf2.com/teams/66)
@@ -81,7 +81,7 @@
 - [TIGER MAFIA](https://www.cltf2.com/teams/10)
 - [Tequila Mockingbirds](https://www.cltf2.com/teams/15)
 
-#### Division 2B `7 teams`
+### Division 2B `7 teams`
 - [ATFT](https://www.cltf2.com/teams/146)
 - [winners](https://www.cltf2.com/teams/72)
 - [highgroundfetish](https://www.cltf2.com/teams/41)
@@ -90,7 +90,7 @@
 - [4sage](https://www.cltf2.com/teams/209)
 - [Max Verstappen Fanclub](https://www.cltf2.com/teams/199)
 
-#### Division 3A `7 teams`
+### Division 3A `7 teams`
 - [CrashingThisPlane](https://www.cltf2.com/teams/205)
 - [NUKE RADIO™](https://www.cltf2.com/teams/111)
 - [wqn](https://www.cltf2.com/teams/94)
@@ -99,7 +99,7 @@
 - [decomposing corpse](https://www.cltf2.com/teams/89)
 - [crazywolf 11kč](https://www.cltf2.com/teams/165)
 
-#### Division 3B `7 teams`
+### Division 3B `7 teams`
 - [GEZ](https://www.cltf2.com/teams/84)
 - [4 BIG THUGS](https://www.cltf2.com/teams/132)
 - [$BUCK$ B4NNY$](https://www.cltf2.com/teams/184)
@@ -108,7 +108,7 @@
 - [The Goof Troop](https://www.cltf2.com/teams/206)
 - [Trolleybus Reunited](https://www.cltf2.com/teams/171)
 
-#### Division 4A `9 teams`
+### Division 4A `9 teams`
 - [ILEX](https://www.cltf2.com/teams/36)
 - [Team PP (EU)](https://www.cltf2.com/teams/173)
 - [GROPers](https://www.cltf2.com/teams/88)
@@ -118,7 +118,7 @@
 - [Screw the match, let's go band for band](https://www.cltf2.com/teams/185)
 - [wow… this is literally me](https://www.cltf2.com/teams/27)
 
-#### Division 4B `8 teams`
+### Division 4B `8 teams`
 - [Wacky Cats](https://www.cltf2.com/teams/57)
 - [PoZ1tiV4ik1](https://www.cltf2.com/teams/26)
 - [TF-EM](https://www.cltf2.com/teams/97)
@@ -128,7 +128,7 @@
 - [Skillsurf Enthusiasts](https://www.cltf2.com/teams/125)
 - [$$ magazine](https://www.cltf2.com/teams/71)
 
-#### Division 5 `9 teams`
+### Division 5 `9 teams`
 - [Darkmatter Gaming](https://www.cltf2.com/teams/45)
 - [Krusty Krab](https://www.cltf2.com/teams/124)
 - [Collective degeneracy](https://www.cltf2.com/teams/122)
