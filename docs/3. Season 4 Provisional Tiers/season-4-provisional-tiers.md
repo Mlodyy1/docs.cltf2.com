@@ -1,7 +1,7 @@
 # Season 4 Provisional Tiers
 ### Asia
 
-#### Premiership `8 teams`
+### Premiership `8 teams`
 - [Open China](https://www.cltf2.com/teams/77)
 - [HRKGOD](https://www.cltf2.com/teams/129)
 - [So Far So Good](https://www.cltf2.com/teams/14)
@@ -11,7 +11,7 @@
 - [super noob m8](https://www.cltf2.com/teams/149)
 - [4dowwy](https://www.cltf2.com/teams/47)
 
-#### Division 1 `6 teams`
+### Division 1 `6 teams`
 - [capybara](https://www.cltf2.com/teams/187)
 - [Yeepee!](https://www.cltf2.com/teams/211)
 - [Rajabhat_university](https://www.cltf2.com/teams/197)
@@ -21,13 +21,13 @@
 
 ### Australia
 
-#### Premiership `4 teams`
+### Premiership `4 teams`
 - [goblin deez](https://www.cltf2.com/teams/53)
 - [+25%](https://www.cltf2.com/teams/151)
 - [4at guy gaming](https://www.cltf2.com/teams/148)
 - [rr](https://www.cltf2.com/teams/58)
 
-#### Division 1 `5 teams`
+### Division 1 `5 teams`
 - [Auder](https://www.cltf2.com/teams/178)
 - [Dispensers](https://www.cltf2.com/teams/25)
 - [Temporary Tier Lists](https://www.cltf2.com/teams/195)
@@ -36,7 +36,7 @@
 
 ### South America
 
-#### Premiership `7 teams`
+### Premiership `7 teams`
 - [_\|/_ WEEDUSERS420 _\|/_](https://www.cltf2.com/teams/48)
 - [dj huevito on the track](https://www.cltf2.com/teams/50)
 - [legacyyy](https://www.cltf2.com/teams/51)
@@ -45,7 +45,7 @@
 - [KHE BERGA?](https://www.cltf2.com/teams/68)
 - [los iluminados](https://www.cltf2.com/teams/73)
 
-#### Division 1 `4 teams`
+### Division 1 `4 teams`
 - [los turbasos](https://www.cltf2.com/teams/183)
 - [KONE](https://www.cltf2.com/teams/133)
 - [Kibados](https://www.cltf2.com/teams/164)
@@ -53,7 +53,7 @@
 
 ### Europe
 
-#### Premiership `8 teams`
+### Premiership `8 teams`
 - [THE GEEZERS](https://www.cltf2.com/teams/215)
 - [on the dole again](https://www.cltf2.com/teams/64)
 - [moro moro](https://www.cltf2.com/teams/28)
@@ -63,7 +63,7 @@
 - [Choking Hazard](https://www.cltf2.com/teams/204)
 - [Wicked Lotus](https://www.cltf2.com/teams/82)
 
-#### Division 1 `7 teams`
+### Division 1 `7 teams`
 - [Permiership](https://www.cltf2.com/teams/155)
 - [MBAPPE LA FSCB](https://www.cltf2.com/teams/78)
 - [4sEnvyus](https://www.cltf2.com/teams/12)
@@ -72,7 +72,7 @@
 - [wG downsyndrome](https://www.cltf2.com/teams/116)
 - [$vin_kolba$](https://www.cltf2.com/teams/9)
 
-#### Division 2A `7 teams`
+### Division 2A `7 teams`
 - [ESEA Invite](https://www.cltf2.com/teams/190)
 - [LOZA MASONSKA](https://www.cltf2.com/teams/183)
 - [JbuT4$$](https://www.cltf2.com/teams/40)
@@ -81,7 +81,7 @@
 - [TIGER MAFIA](https://www.cltf2.com/teams/194)
 - [Tequila Mockingbirds](https://www.cltf2.com/teams/175)
 
-#### Division 2B `7 teams`
+### Division 2B `7 teams`
 - [ATFT](https://www.cltf2.com/teams/211)
 - [winners](https://www.cltf2.com/teams/165)
 - [highgroundfetish](https://www.cltf2.com/teams/49)
@@ -90,7 +90,7 @@
 - [4sage](https://www.cltf2.com/teams/92)
 - [Max Verstappen Fanclub](https://www.cltf2.com/teams/160)
 
-#### Division 3A `7 teams`
+### Division 3A `7 teams`
 - [CrashingThisPlane](https://www.cltf2.com/teams/71)
 - [NUKE RADIO™](https://www.cltf2.com/teams/31)
 - [wqn](https://www.cltf2.com/teams/137)
@@ -99,7 +99,7 @@
 - [decomposing corpse](https://www.cltf2.com/teams/17)
 - [crazywolf 11kč](https://www.cltf2.com/teams/153)
 
-#### Division 3B `7 teams`
+### Division 3B `7 teams`
 - [GEZ](https://www.cltf2.com/teams/45)
 - [4 BIG THUGS](https://www.cltf2.com/teams/146)
 - [$BUCK$ B4NNY$](https://www.cltf2.com/teams/123)
@@ -108,7 +108,7 @@
 - [The Goof Troop](https://www.cltf2.com/teams/10)
 - [Trolleybus Reunited](https://www.cltf2.com/teams/139)
 
-#### Division 4A `9 teams`
+### Division 4A `9 teams`
 - [ILEX](https://www.cltf2.com/teams/160)
 - [Team PP (EU)](https://www.cltf2.com/teams/201)
 - [GROPers](https://www.cltf2.com/teams/75)
@@ -118,7 +118,7 @@
 - [Screw the match, let's go band for band](https://www.cltf2.com/teams/101)
 - [wow… this is literally me](https://www.cltf2.com/teams/196)
 
-#### Division 4B `8 teams`
+### Division 4B `8 teams`
 - [Wacky Cats](https://www.cltf2.com/teams/160)
 - [PoZ1tiV4ik1](https://www.cltf2.com/teams/186)
 - [TF-EM](https://www.cltf2.com/teams/203)
@@ -128,7 +128,7 @@
 - [Skillsurf Enthusiasts](https://www.cltf2.com/teams/32)
 - [$$ magazine](https://www.cltf2.com/teams/128)
 
-#### Division 5 `9 teams`
+### Division 5 `9 teams`
 - [Darkmatter Gaming](https://www.cltf2.com/teams/159)
 - [Krusty Krab](https://www.cltf2.com/teams/109)
 - [Collective degeneracy](https://www.cltf2.com/teams/16)
@@ -141,7 +141,7 @@
 
 ### North America
 
-#### Premiership `8 teams`
+### Premiership `8 teams`
 - [(bana) Bananaramas](https://www.cltf2.com/teams/181)
 - [Happy Hour On Monday](https://www.cltf2.com/teams/197)
 - [The Pollos Hermanos](https://www.cltf2.com/teams/15)
@@ -151,7 +151,7 @@
 - [RGL Shadow Government](https://www.cltf2.com/teams/195)
 - [Bootney Lee Farnsworth Foundation](https://www.cltf2.com/teams/187)
 
-#### Division 1A `9 teams`
+### Division 1A `9 teams`
 - [Free Flipjam](https://www.cltf2.com/teams/193)
 - [cat burger](https://www.cltf2.com/teams/82)
 - [Nulla Pavor](https://www.cltf2.com/teams/45)
@@ -161,7 +161,7 @@
 - [NO MEDIC ALLOWED](https://www.cltf2.com/teams/190)
 - [The Waddlers](https://www.cltf2.com/teams/25)
 
-#### Division 1B `7 teams`
+### Division 1B `7 teams`
 - [WetCardBoard](https://www.cltf2.com/teams/198)
 - [PINKCardBoard](https://www.cltf2.com/teams/32)
 - [Minimum Momentum](https://www.cltf2.com/teams/80)
@@ -170,7 +170,7 @@
 - [Rangers](https://www.cltf2.com/teams/157)
 - [Never Stop Gambling](https://www.cltf2.com/teams/102)
 
-#### Division 2 `8 teams`
+### Division 2 `8 teams`
 - [BurntCardBoard](https://www.cltf2.com/teams/51)
 - [Dipper Nation](https://www.cltf2.com/teams/61)
 - [bionicles fan club](https://www.cltf2.com/teams/166)
@@ -180,7 +180,7 @@
 - [Team TF2CRT](https://www.cltf2.com/teams/48)
 - [the iron domers](https://www.cltf2.com/teams/41)
 
-#### Division 3 `9 teams`
+### Division 3 `9 teams`
 - [we ball](https://www.cltf2.com/teams/181)
 - [Team PP (NA)](https://www.cltf2.com/teams/135)
 - [MAYO](https://www.cltf2.com/teams/116)
