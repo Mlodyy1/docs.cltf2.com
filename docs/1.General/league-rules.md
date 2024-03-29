@@ -58,7 +58,7 @@ sidebar_position: 2
   - Team A removes one map.
   - Team A picks one map; Team B chooses the starting side.
   - Team B picks one map; Team A chooses the starting side.
-- 4.6 - Playoff matches take place in 3 team double elimination. The top two seeded teams start in the upper level of the bracket, with the third place team starting in lower.
+- 4.6 - Playoff matches take place in 4 team double elimination. The top two seeded teams start in the upper level of the bracket, with the third and fourth place teams starting in lower.
   - 4.6.1 - Example of bracket
   - ![example-of-bracket](/img/rules/bracket.png)
 - 4.7 - Playoffs, with exception to grand finals, is played BO3 maps. The score line is 2-1 or 2-0. The upper seeded team may choose to be team A or team B. The pick/ban list for maps is as follows:
