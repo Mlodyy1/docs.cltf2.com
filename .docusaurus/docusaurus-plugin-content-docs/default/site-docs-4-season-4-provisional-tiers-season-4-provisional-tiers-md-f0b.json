@@ -1,0 +1,24 @@
+{
+  "id": "Season 4 Provisional Tiers/season-4-provisional-tiers",
+  "title": "Season 4 Provisional Tiers",
+  "description": "Asia",
+  "source": "@site/docs/4. Season 4 Provisional Tiers/season-4-provisional-tiers.md",
+  "sourceDirName": "4. Season 4 Provisional Tiers",
+  "slug": "/Season 4 Provisional Tiers/season-4-provisional-tiers",
+  "permalink": "/docs/Season 4 Provisional Tiers/season-4-provisional-tiers",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/4. Season 4 Provisional Tiers/season-4-provisional-tiers.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Ultiduo Ruleset",
+    "permalink": "/docs/Ultiduo Rules/ultiduo-ruleset"
+  },
+  "next": {
+    "title": "Newbie Guide",
+    "permalink": "/docs/Guides/newbie-guide"
+  }
+}

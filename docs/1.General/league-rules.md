@@ -14,7 +14,7 @@ sidebar_position: 2
 ## 2 - Sign Up Rules
 - 2.1 - Sign ups take place on our [website](https://cltf2.com).
   - 2.1.1 - Players must have a valid steam account to sign up through the website.
-- 2.2 - Teams will not know what division they are a part of until sign ups close. An admin will determine what division your team is in based on your team's previous competitive history. Check [6 - Division](#6---division-rules) for more details.
+- 2.2 - Teams will not know what division they are a part of until sign ups close. An admin will determine what division your team is in based on your team's previous competitive history. Check [7 - Division](#7---division-rules) for more details.
 - 2.3 - Players must not have a VAC ban/Game ban on their account unless cleared by an admin in order to participate in the cup.
 - 2.4 - Players that have league related cheating bans will not be allowed to play. Players with suspensions will be evaluated by an admin on a case by case basis.
 - 2.5 - By signing up, you are agreeing that all players/leaders/subs in your signup request will follow all CLTF2 rules. Breaking rules may result in medal loss, ban from current/future seasons, or ban from Discord.
@@ -76,25 +76,51 @@ sidebar_position: 2
   - Team B picks one map; Team A chooses the starting side.
   - Team A picks one map; Team B chooses the starting side.
 
-## 5 - Casting Rules
-- 5.1 - Teams must arrive on time to their respective matches.
-- 5.2 - Players must use their official names within casts.
-- 5.3 - Casted matches are held to a higher standard of player behavior. Harsher punishments will be given if breaking rules.
+## 5 - Cup Rules
 
-## 6 - Division Rules
-- 6.1 - Divisions are made to try and keep a fair and competitive focus for each player.
-- 6.2 - Team will be split up based on previous competitive experience. The division names, in order of highest to lowest:
+- 5.1 - Cups are run in a two-day format with the first day consisting of three games, and the second day being a double elimination bracket.
+  - 5.1.1 - Playoff matches take place in a four-team double elimination. The top-seeded teams from each group start in the upper level of the bracket, with the second-seeded teams starting in the lower bracket.
+  - 5.1.2 - Example of bracket:
+  ![example-of-bracket](/img/rules/bracket.png)
+
+- 5.2 - First-day cup matches take place in a round-robin format of four teams per group.
+  - 5.2.1 - The top two teams move onto day two, where they play against the top two of another equally skilled group.
+
+- 5.3 - Tiebreakers for the regular season are decided by the following ranks in order:
+  - Score Difference
+  - Direct Encounter
+  - Median Buchholz
+  - Round Wins
+
+- 5.4 - First-day matches are played BO1, with maps chosen in advance.
+
+- 5.5 - Playoffs, with the exception of grand finals, are played BO1. The upper-seeded team gets to be Team A. The pick/ban list for maps is as follows:
+  - Team A removes one map.
+  - Team B picks one map.
+
+- 5.6 - Grand finals are played BO3 maps. The scoreline is 2-1 or 2-0. The upper-seeded team gets to be Team A. The pick/ban list for maps is as follows:
+  - Team A picks one map.
+  - Team B picks the remaining two.
+
+## 6 - Casting Rules
+- 6.1 - Teams must arrive on time to their respective matches.
+- 6.2 - Players must use their official names within casts.
+- 6.3 - Casted matches are held to a higher standard of player behavior. Harsher punishments will be given if breaking rules.
+
+## 7 - Division Rules
+- 7.1 - Divisions are made to try and keep a fair and competitive focus for each player.
+- 7.2 - Team will be split up based on previous competitive experience. The division names, in order of highest to lowest:
   - Premiership
   - Division 1
   - Division 2+
   :::warning
     Amount of divisions will be made depending on level of competition and number of team sign ups
     ::: 
-- 6.3 - Players will be placed in divisions depending on previous competitive experience.
+- 7.3 - Players will be placed in divisions depending on previous competitive experience.
 
-## 7 - Admin Rules
-- 7.1 - Do not abuse power.
-- 7.2 - If you are unsure on how to handle a situation, please get another Admin or get the owner.
-- 7.3 - If you would like to contribute anything about rules, pugs, or config. Please message the owner.
-- 7.4 - Admins and Moderators are still allowed to play in the cup.
-- 7.5 - Admins have the ability to interpret rules in any way they see fit to the situation.
+## 8 - Admin Rules
+- 8.1 - Do not abuse power.
+- 8.2 - If you are unsure on how to handle a situation, please get another Admin or get the owner.
+- 8.3 - If you would like to contribute anything about rules, pugs, or config. Please message the owner.
+- 8.4 - Admins and Moderators are still allowed to play in the cup.
+- 8.5 - Admins have the ability to interpret rules in any way they see fit to the situation.

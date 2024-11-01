@@ -1,88 +1,49 @@
 {
-  "/__docusaurus/debug-5f0": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
+  "/markdown-page-c47": {
+    "__comp": "1f391b9e",
     "__context": {
-      "plugin": "plugin---docusaurus-debug-48-b-c91"
-    }
-  },
-  "/__docusaurus/debug/config-759": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
-    "__context": {
-      "plugin": "plugin---docusaurus-debug-48-b-c91"
-    }
-  },
-  "/__docusaurus/debug/content-8e9": {
-    "__comp": "__comp---theme-debug-contentba-8-ce7",
-    "__context": {
-      "plugin": "plugin---docusaurus-debug-48-b-c91"
+      "plugin": "747550ab"
     },
-    "allContent": "allContent---docusaurus-debug-content-246-9aa"
+    "content": "393be207"
   },
-  "/__docusaurus/debug/globalData-61a": {
-    "__comp": "__comp---theme-debug-global-dataede-0fa",
+  "/docs-6dc": {
+    "__comp": "5e95c892",
     "__context": {
-      "plugin": "plugin---docusaurus-debug-48-b-c91"
+      "plugin": "da7f5143"
     }
   },
-  "/__docusaurus/debug/metadata-9fe": {
-    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
-    "__context": {
-      "plugin": "plugin---docusaurus-debug-48-b-c91"
-    }
+  "/docs-f68": {
+    "__comp": "a7bd4aaa",
+    "version": "935f2afb"
   },
-  "/__docusaurus/debug/registry-57a": {
-    "__comp": "__comp---theme-debug-registry-679-501",
-    "__context": {
-      "plugin": "plugin---docusaurus-debug-48-b-c91"
-    }
-  },
-  "/__docusaurus/debug/routes-926": {
-    "__comp": "__comp---theme-debug-routes-946-699",
-    "__context": {
-      "plugin": "plugin---docusaurus-debug-48-b-c91"
-    }
-  },
-  "/markdown-page-c2c": {
-    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
-    "__context": {
-      "plugin": "plugin---markdown-page-8-e-6-eff"
-    },
-    "content": "content---markdown-page-393-028"
-  },
-  "/docs-2e4": {
-    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
-    "__context": {
-      "plugin": "plugin---docs-7-da-f35"
-    }
-  },
-  "/docs-5df": {
-    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
-    "version": "version---docs-935-398"
-  },
-  "/docs-660": {
-    "__comp": "__comp---theme-doc-roota-94-67a"
+  "/docs-d6a": {
+    "__comp": "a94703ab"
   },
   "/docs/4S Rules/4s-ruleset-e88": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-4-s-rules-4-s-rulesetc-2-d-b84"
+    "__comp": "17896441",
+    "content": "c2d7d3f6"
   },
   "/docs/General/league-rules-7b5": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-general-league-rulesb-98-d24"
+    "__comp": "17896441",
+    "content": "b980d436"
   },
-  "/docs/Guides/newbie-guide-2eb": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-guides-newbie-guidec-83-b92"
+  "/docs/Guides/newbie-guide-718": {
+    "__comp": "17896441",
+    "content": "01d53cc9"
   },
-  "/docs/Season 4 Provisional Tiers/season-4-provisional-tiers-456": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-season-4-provisional-tiers-season-4-provisional-tiers-573-e77"
+  "/docs/Season 4 Provisional Tiers/season-4-provisional-tiers-a51": {
+    "__comp": "17896441",
+    "content": "f0b7e960"
   },
-  "/-b1a": {
-    "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
+  "/docs/Ultiduo Rules/ultiduo-ruleset-eba": {
+    "__comp": "17896441",
+    "content": "c743ffbf"
+  },
+  "/-a3c": {
+    "__comp": "c4f5d8e4",
     "__context": {
-      "plugin": "plugin---markdown-page-8-e-6-eff"
+      "plugin": "747550ab"
     },
-    "config": "config---5-e-9-4f3"
+    "config": "5e9f5e1a"
   }
 }

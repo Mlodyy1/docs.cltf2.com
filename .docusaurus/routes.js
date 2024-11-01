@@ -3,56 +3,21 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/__docusaurus/debug',
-    component: ComponentCreator('/__docusaurus/debug', '5f0'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/config',
-    component: ComponentCreator('/__docusaurus/debug/config', '759'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/content',
-    component: ComponentCreator('/__docusaurus/debug/content', '8e9'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/globalData',
-    component: ComponentCreator('/__docusaurus/debug/globalData', '61a'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/metadata',
-    component: ComponentCreator('/__docusaurus/debug/metadata', '9fe'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/registry',
-    component: ComponentCreator('/__docusaurus/debug/registry', '57a'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/routes',
-    component: ComponentCreator('/__docusaurus/debug/routes', '926'),
-    exact: true
-  },
-  {
     path: '/markdown-page',
-    component: ComponentCreator('/markdown-page', 'c2c'),
+    component: ComponentCreator('/markdown-page', 'c47'),
     exact: true
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '2e4'),
+    component: ComponentCreator('/docs', '6dc'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '5df'),
+        component: ComponentCreator('/docs', 'f68'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '660'),
+            component: ComponentCreator('/docs', 'd6a'),
             routes: [
               {
                 path: '/docs/4S Rules/4s-ruleset',
@@ -68,13 +33,19 @@ export default [
               },
               {
                 path: '/docs/Guides/newbie-guide',
-                component: ComponentCreator('/docs/Guides/newbie-guide', '2eb'),
+                component: ComponentCreator('/docs/Guides/newbie-guide', '718'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/docs/Season 4 Provisional Tiers/season-4-provisional-tiers',
-                component: ComponentCreator('/docs/Season 4 Provisional Tiers/season-4-provisional-tiers', '456'),
+                component: ComponentCreator('/docs/Season 4 Provisional Tiers/season-4-provisional-tiers', 'a51'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/Ultiduo Rules/ultiduo-ruleset',
+                component: ComponentCreator('/docs/Ultiduo Rules/ultiduo-ruleset', 'eba'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }
@@ -86,7 +57,7 @@ export default [
   },
   {
     path: '/',
-    component: ComponentCreator('/', 'b1a'),
+    component: ComponentCreator('/', 'a3c'),
     exact: true
   },
   {

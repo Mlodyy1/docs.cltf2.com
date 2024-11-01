@@ -29,6 +29,11 @@
               "id": "Season 4 Provisional Tiers/season-4-provisional-tiers",
               "path": "/docs/Season 4 Provisional Tiers/season-4-provisional-tiers",
               "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Ultiduo Rules/ultiduo-ruleset",
+              "path": "/docs/Ultiduo Rules/ultiduo-ruleset",
+              "sidebar": "tutorialSidebar"
             }
           ],
           "draftIds": [],

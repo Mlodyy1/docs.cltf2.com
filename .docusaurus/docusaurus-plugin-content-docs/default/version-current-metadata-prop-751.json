@@ -41,6 +41,21 @@
       },
       {
         "type": "category",
+        "label": "Ultiduo Rules",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Ultiduo Ruleset",
+            "href": "/docs/Ultiduo Rules/ultiduo-ruleset",
+            "docId": "Ultiduo Rules/ultiduo-ruleset",
+            "unlisted": false
+          }
+        ]
+      },
+      {
+        "type": "category",
         "label": "Season 4 Provisional Tiers",
         "collapsible": true,
         "collapsed": true,
@@ -94,6 +109,12 @@
       "id": "Season 4 Provisional Tiers/season-4-provisional-tiers",
       "title": "Season 4 Provisional Tiers",
       "description": "Asia",
+      "sidebar": "tutorialSidebar"
+    },
+    "Ultiduo Rules/ultiduo-ruleset": {
+      "id": "Ultiduo Rules/ultiduo-ruleset",
+      "title": "Ultiduo Ruleset",
+      "description": "1 - Ultiduo Rules",
       "sidebar": "tutorialSidebar"
     }
   }
