@@ -1,0 +1,24 @@
+{
+  "id": "Sacred Scouts Rules/sacres-scouts-ruleset",
+  "title": "Sacred Scouts Ruleset",
+  "description": "- 1.1 - Teams are required to play with 6 players per match.",
+  "source": "@site/docs/4. Sacred Scouts Rules/sacres-scouts-ruleset.md",
+  "sourceDirName": "4. Sacred Scouts Rules",
+  "slug": "/Sacred Scouts Rules/sacres-scouts-ruleset",
+  "permalink": "/docs/Sacred Scouts Rules/sacres-scouts-ruleset",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/4. Sacred Scouts Rules/sacres-scouts-ruleset.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Ultiduo Ruleset",
+    "permalink": "/docs/Ultiduo Rules/ultiduo-ruleset"
+  },
+  "next": {
+    "title": "Season 4 Provisional Tiers",
+    "permalink": "/docs/Season 4 Provisional Tiers/season-4-provisional-tiers"
+  }
+}

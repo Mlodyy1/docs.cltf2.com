@@ -9,15 +9,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '6dc'),
+    component: ComponentCreator('/docs', '72c'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', 'f68'),
+        component: ComponentCreator('/docs', 'fd8'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', 'd6a'),
+            component: ComponentCreator('/docs', '8dd'),
             routes: [
               {
                 path: '/docs/4S Rules/4s-ruleset',
@@ -34,6 +34,12 @@ export default [
               {
                 path: '/docs/Guides/newbie-guide',
                 component: ComponentCreator('/docs/Guides/newbie-guide', '718'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/Sacred Scouts Rules/sacres-scouts-ruleset',
+                component: ComponentCreator('/docs/Sacred Scouts Rules/sacres-scouts-ruleset', 'd6f'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

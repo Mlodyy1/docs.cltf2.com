@@ -56,6 +56,21 @@
       },
       {
         "type": "category",
+        "label": "Sacred Scouts Rules",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Sacred Scouts Ruleset",
+            "href": "/docs/Sacred Scouts Rules/sacres-scouts-ruleset",
+            "docId": "Sacred Scouts Rules/sacres-scouts-ruleset",
+            "unlisted": false
+          }
+        ]
+      },
+      {
+        "type": "category",
         "label": "Season 4 Provisional Tiers",
         "collapsible": true,
         "collapsed": true,
@@ -103,6 +118,12 @@
       "id": "Guides/newbie-guide",
       "title": "Newbie Guide",
       "description": "Welcome to Competitive TF2: A Beginner's Guide",
+      "sidebar": "tutorialSidebar"
+    },
+    "Sacred Scouts Rules/sacres-scouts-ruleset": {
+      "id": "Sacred Scouts Rules/sacres-scouts-ruleset",
+      "title": "Sacred Scouts Ruleset",
+      "description": "- 1.1 - Teams are required to play with 6 players per match.",
       "sidebar": "tutorialSidebar"
     },
     "Season 4 Provisional Tiers/season-4-provisional-tiers": {
