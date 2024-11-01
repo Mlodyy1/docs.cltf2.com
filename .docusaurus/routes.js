@@ -4,54 +4,48 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 export default [
   {
     path: '/markdown-page',
-    component: ComponentCreator('/markdown-page', 'c47'),
+    component: ComponentCreator('/markdown-page', '3d7'),
     exact: true
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '72c'),
+    component: ComponentCreator('/docs', 'a5a'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', 'fd8'),
+        component: ComponentCreator('/docs', '139'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '8dd'),
+            component: ComponentCreator('/docs', '0b0'),
             routes: [
               {
                 path: '/docs/4S Rules/4s-ruleset',
-                component: ComponentCreator('/docs/4S Rules/4s-ruleset', 'e88'),
+                component: ComponentCreator('/docs/4S Rules/4s-ruleset', '77b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/docs/General/league-rules',
-                component: ComponentCreator('/docs/General/league-rules', '7b5'),
+                component: ComponentCreator('/docs/General/league-rules', 'e3c'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/docs/Guides/newbie-guide',
-                component: ComponentCreator('/docs/Guides/newbie-guide', '718'),
+                component: ComponentCreator('/docs/Guides/newbie-guide', '8f3'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/Sacred Scouts Rules/sacres-scouts-ruleset',
-                component: ComponentCreator('/docs/Sacred Scouts Rules/sacres-scouts-ruleset', 'd6f'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/Season 4 Provisional Tiers/season-4-provisional-tiers',
-                component: ComponentCreator('/docs/Season 4 Provisional Tiers/season-4-provisional-tiers', 'a51'),
+                path: '/docs/Sacred Scouts Rules/sacred-scouts-ruleset',
+                component: ComponentCreator('/docs/Sacred Scouts Rules/sacred-scouts-ruleset', 'f9b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/docs/Ultiduo Rules/ultiduo-ruleset',
-                component: ComponentCreator('/docs/Ultiduo Rules/ultiduo-ruleset', 'eba'),
+                component: ComponentCreator('/docs/Ultiduo Rules/ultiduo-ruleset', '63b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }
@@ -63,7 +57,7 @@ export default [
   },
   {
     path: '/',
-    component: ComponentCreator('/', 'a3c'),
+    component: ComponentCreator('/', '2e1'),
     exact: true
   },
   {

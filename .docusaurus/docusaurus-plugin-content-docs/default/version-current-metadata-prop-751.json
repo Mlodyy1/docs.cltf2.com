@@ -63,23 +63,8 @@
           {
             "type": "link",
             "label": "Sacred Scouts Ruleset",
-            "href": "/docs/Sacred Scouts Rules/sacres-scouts-ruleset",
-            "docId": "Sacred Scouts Rules/sacres-scouts-ruleset",
-            "unlisted": false
-          }
-        ]
-      },
-      {
-        "type": "category",
-        "label": "Season 4 Provisional Tiers",
-        "collapsible": true,
-        "collapsed": true,
-        "items": [
-          {
-            "type": "link",
-            "label": "Season 4 Provisional Tiers",
-            "href": "/docs/Season 4 Provisional Tiers/season-4-provisional-tiers",
-            "docId": "Season 4 Provisional Tiers/season-4-provisional-tiers",
+            "href": "/docs/Sacred Scouts Rules/sacred-scouts-ruleset",
+            "docId": "Sacred Scouts Rules/sacred-scouts-ruleset",
             "unlisted": false
           }
         ]
@@ -120,16 +105,10 @@
       "description": "Welcome to Competitive TF2: A Beginner's Guide",
       "sidebar": "tutorialSidebar"
     },
-    "Sacred Scouts Rules/sacres-scouts-ruleset": {
-      "id": "Sacred Scouts Rules/sacres-scouts-ruleset",
+    "Sacred Scouts Rules/sacred-scouts-ruleset": {
+      "id": "Sacred Scouts Rules/sacred-scouts-ruleset",
       "title": "Sacred Scouts Ruleset",
       "description": "- 1.1 - Teams are required to play with 6 players per match.",
-      "sidebar": "tutorialSidebar"
-    },
-    "Season 4 Provisional Tiers/season-4-provisional-tiers": {
-      "id": "Season 4 Provisional Tiers/season-4-provisional-tiers",
-      "title": "Season 4 Provisional Tiers",
-      "description": "Asia",
       "sidebar": "tutorialSidebar"
     },
     "Ultiduo Rules/ultiduo-ruleset": {

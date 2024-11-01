@@ -26,13 +26,8 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Sacred Scouts Rules/sacres-scouts-ruleset",
-              "path": "/docs/Sacred Scouts Rules/sacres-scouts-ruleset",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Season 4 Provisional Tiers/season-4-provisional-tiers",
-              "path": "/docs/Season 4 Provisional Tiers/season-4-provisional-tiers",
+              "id": "Sacred Scouts Rules/sacred-scouts-ruleset",
+              "path": "/docs/Sacred Scouts Rules/sacred-scouts-ruleset",
               "sidebar": "tutorialSidebar"
             },
             {

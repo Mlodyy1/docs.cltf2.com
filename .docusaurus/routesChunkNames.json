@@ -1,52 +1,48 @@
 {
-  "/markdown-page-c47": {
+  "/markdown-page-3d7": {
     "__comp": "1f391b9e",
     "__context": {
-      "plugin": "747550ab"
+      "plugin": "a7456010"
     },
     "content": "393be207"
   },
-  "/docs-72c": {
+  "/docs-a5a": {
     "__comp": "5e95c892",
     "__context": {
-      "plugin": "da7f5143"
+      "plugin": "aba21aa0"
     }
   },
-  "/docs-fd8": {
+  "/docs-139": {
     "__comp": "a7bd4aaa",
-    "version": "935f2afb"
+    "__props": "0058b4c6"
   },
-  "/docs-8dd": {
+  "/docs-0b0": {
     "__comp": "a94703ab"
   },
-  "/docs/4S Rules/4s-ruleset-e88": {
+  "/docs/4S Rules/4s-ruleset-77b": {
     "__comp": "17896441",
     "content": "c2d7d3f6"
   },
-  "/docs/General/league-rules-7b5": {
+  "/docs/General/league-rules-e3c": {
     "__comp": "17896441",
     "content": "b980d436"
   },
-  "/docs/Guides/newbie-guide-718": {
+  "/docs/Guides/newbie-guide-8f3": {
     "__comp": "17896441",
     "content": "01d53cc9"
   },
-  "/docs/Sacred Scouts Rules/sacres-scouts-ruleset-d6f": {
+  "/docs/Sacred Scouts Rules/sacred-scouts-ruleset-f9b": {
     "__comp": "17896441",
-    "content": "d9d578b2"
+    "content": "f75dbd2e"
   },
-  "/docs/Season 4 Provisional Tiers/season-4-provisional-tiers-a51": {
-    "__comp": "17896441",
-    "content": "f0b7e960"
-  },
-  "/docs/Ultiduo Rules/ultiduo-ruleset-eba": {
+  "/docs/Ultiduo Rules/ultiduo-ruleset-63b": {
     "__comp": "17896441",
     "content": "c743ffbf"
   },
-  "/-a3c": {
+  "/-2e1": {
     "__comp": "c4f5d8e4",
     "__context": {
-      "plugin": "747550ab"
+      "plugin": "a7456010"
     },
     "config": "5e9f5e1a"
   }
